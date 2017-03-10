@@ -2,18 +2,22 @@
 
 <div class="row">
     <div class="large-12">
-        <div class="large-9 column">
-            <p>Some orienting text about the scope of the projectes. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur officia, officiis dolore aliquam explicabo sed itaque eveniet veniam deleniti molestiae, aperiam recusandae deserunt doloribus tenetur ab fugit ullam consectetur, laboriosam?</p>
+        
+        <div class="large-9=12 column">
+        <p>Some orienting text about the scope of the projectes. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur officia, officiis dolore aliquam explicabo sed itaque eveniet veniam deleniti molestiae, aperiam recusandae deserunt doloribus tenetur ab fugit ullam consectetur, laboriosam?</p>
+            <a href="" class="button">Topic 1</a>
+            <a href="" class="button">Topic 2</a>
+            <a href="" class="button">Topic 3</a>
+            <a href="" class="button">Topic 4</a>
+            <a href="" class="button">Topic 5</a>
+            <a href="" class="button">Topic 6</a>
+            <a href="" class="button">Topic 7</a>
+            <a href="" class="button">Topic 8</a>
+            <a href="" class="button">Topic 9</a>
+            <a href="" class="button">Topic 10</a>
         </div>
         <div class="large-3 column">
-            <select name="topics" id="topics">
-                <option value="">Choose a Topic</option>
-                <option value="">Topic 1</option>
-                <option value="">Topic 2</option>
-                <option value="">Topic 3</option>
-                <option value="">Topic 4</option>
-                <option value="">Topic 5</option>
-            </select>
+            
         </div>
     </div>
 </div>

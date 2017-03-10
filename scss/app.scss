@@ -50,3 +50,17 @@
 @include motion-ui-transitions;
 @include motion-ui-animations;
 
+.header 
+    {
+    a.button {
+    margin-top:3.5rem;
+    }
+    input {
+        clear:both;
+        margin-top:1rem;
+    }
+}
+
+.top {
+    margin-top:1rem;
+}

@@ -12,15 +12,15 @@
       <div class="row expanded">
 
       <div class="large-7 columns">
-        <img class="large-2 small-2 column logo" src="http://placehold.it/300x300?text=LOGO" alt="">
-        <h1><a href="index.php">Digital Chicago</a></h1>
-      </div>
-
-      <div class="large-2 large-offset-3 columns">
+        <a href="index.php"><img class="large-2 small-2 column logo" src="http://placehold.it/300x300?text=LOGO" alt=""></a>
         <ul class="menu medium-horizontal vertical">
           <li class="nav-link"><a href="projects.php">Projects</a></li>
           <li class="nav-link"><a href="about.php">About</a></li> 
         </ul>
+      </div>
+
+      <div class="large-2 large-offset-3 columns">
+        
         <input type="text" placeholder="Search" class="input-group-field" />
       </div>
     </div>
